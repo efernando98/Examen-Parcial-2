@@ -1,0 +1,10 @@
+C:\Users\Fernando Olivares\source\repos\ParcialP1\ParcialP1\bin\Debug\ParcialP1.exe.config
+C:\Users\Fernando Olivares\source\repos\ParcialP1\ParcialP1\bin\Debug\ParcialP1.exe
+C:\Users\Fernando Olivares\source\repos\ParcialP1\ParcialP1\bin\Debug\ParcialP1.pdb
+C:\Users\Fernando Olivares\source\repos\ParcialP1\ParcialP1\obj\Debug\ParcialP1.csprojAssemblyReference.cache
+C:\Users\Fernando Olivares\source\repos\ParcialP1\ParcialP1\obj\Debug\ParcialP1.Form1.resources
+C:\Users\Fernando Olivares\source\repos\ParcialP1\ParcialP1\obj\Debug\ParcialP1.Properties.Resources.resources
+C:\Users\Fernando Olivares\source\repos\ParcialP1\ParcialP1\obj\Debug\ParcialP1.csproj.GenerateResource.cache
+C:\Users\Fernando Olivares\source\repos\ParcialP1\ParcialP1\obj\Debug\ParcialP1.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Olivares\source\repos\ParcialP1\ParcialP1\obj\Debug\ParcialP1.exe
+C:\Users\Fernando Olivares\source\repos\ParcialP1\ParcialP1\obj\Debug\ParcialP1.pdb
